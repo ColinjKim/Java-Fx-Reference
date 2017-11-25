@@ -23,7 +23,6 @@ public class Listening_select_change extends Application{
 		// TODO Auto-generated method stub
 		window = primaryStage;
 		window.setTitle("listening");
-		button = new Button("Click me");
 		//make choice box
 		ChoiceBox<String> choicebox1 = new ChoiceBox<>();
 		choicebox1.getItems().addAll("wlu", "uw", "conestoga");
